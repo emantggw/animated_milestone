@@ -10,9 +10,11 @@ AnimatedMilestone is a lightweight and customizable Flutter package that allows 
 
 ## Screenshots
 
-<img src="https://github.com/emantggw/animated_milestone/raw/main/assets/screenshots/example_three_screenshot.gif" width="300" />
-<img src="https://github.com/emantggw/animated_milestone/raw/main/assets/screenshots/example_two_screenshot.gif" width="300" />
-<img src="https://github.com/emantggw/animated_milestone/raw/main/assets/screenshots/example_one_screenshot.gif" width="300" />
+<p float="left">
+  <img src="https://github.com/emantggw/animated_milestone/raw/main/assets/screenshots/example_three_screenshot.gif" width="300" />
+  <img src="https://github.com/emantggw/animated_milestone/raw/main/assets/screenshots/example_two_screenshot.gif" width="300" />
+  <img src="https://github.com/emantggw/animated_milestone/raw/main/assets/screenshots/example_one_screenshot.gif" width="300" />
+</p>
 
 ## Getting Started
 
