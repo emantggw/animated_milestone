@@ -1,6 +1,6 @@
 name: animated_milestone
 description: AnimatedMilestone is a lightweight and customizable Flutter package designed to help users effortlessly create milestone and timeline-related use cases. It offers customizable animations, versatile alignment options, and a minimalistic design for seamless integration into various applications.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/emantggw/animated_milestone
 
 environment:
