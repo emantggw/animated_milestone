@@ -29,7 +29,9 @@ dependencies:
 
 ## Usage
 
-[Example](https://github.com/emantggw/animated_milestone/blob/master/example/example_one.dart)
+[Example-1](https://github.com/emantggw/animated_milestone/blob/master/example/example_one.dart)
+[Example-2](https://github.com/emantggw/animated_milestone/blob/master/example/example_two.dart)
+[Example-3](https://github.com/emantggw/animated_milestone/blob/master/example/example_two.dart)
 To use this package :
 
 - add the dependency to your [pubspec.yaml](https://github.com/emantggw/animated_milestone/blob/master/pubspec.yaml) file.
@@ -48,7 +50,6 @@ MilestoneTimeline(
         circleRadius: 12,
         activeWithStick: true,
         stickThickness: 3,
-        milestoneIntervalDurationInMillis: 300,
         milestones: [
           Milestone(
               title: const Text("Order Placed",
